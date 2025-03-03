@@ -33,8 +33,7 @@ Te dirá:
 - Los elementos son: (,+,2,3,)
 
 ## Se utiliza
-- Un enfoque simple y directo que es fácil de entender
-- Los nombres de variables y métodos son descriptivos
-- Separé las diferentes tareas en métodos independientes
+- Un enfoque simple
+- Separamos las diferentes tareas en métodos independientes
 - Se incluyen comentarios para explicar lo que hace cada parte
 
