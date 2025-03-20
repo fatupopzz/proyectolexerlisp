@@ -5,6 +5,9 @@ Este programa analiza expresiones LISP y hace dos cosas:
 1. Comprueba si los paréntesis están balanceados (igual número de paréntesis que abren y cierran)
 2. Identifica todos los elementos (tokens) de la expresión
 
+## Video del Intérprete
+https://youtu.be/wP1BSGfdbrQ
+
 ## Cómo funciona
 Funciona de esta manera:
 
